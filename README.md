@@ -173,14 +173,14 @@ The video walks through practical automated testing techniques that can help imp
 ## Documentation
 
 <p align="left" style="font-family: Bedrock; font-size:21pt; color:#7253ed; font-style:bold">
-  <a href="https://mikeschulze.github.io/gdUnit4/latest/first_steps/install/">How to Install the GdUnit4 plugin</a>
+  <a href="https://godot-gdunit-labs.github.io/gdUnit4/latest/first_steps/install/">How to Install the GdUnit4 plugin</a>
 </p>
 <p align="left" style="font-family: Bedrock; font-size:21pt; color:#7253ed; font-style:bold">
-  <a href="https://mikeschulze.github.io/gdUnit4/latest/csharp_project_setup/csharp-setup/">How to setup GdUnit4 for C#</a>
+  <a href="https://godot-gdunit-labs.github.io/gdUnit4/latest/csharp_project_setup/csharp-setup/">How to setup GdUnit4 for C#</a>
 </p>
 
 <p align="left" style="font-family: Bedrock; font-size:21pt; color:#7253ed; font-style:bold">
-  <a href="https://mikeschulze.github.io/gdUnit4/">API Documentation</a>
+  <a href="https://godot-gdunit-labs.github.io/gdUnit4/latest/">API Documentation</a>
 </p>
 
 ---
