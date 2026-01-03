@@ -2,8 +2,8 @@
 
 changelog:
   exclude:
-    type:
-      - ignore-for-release
+    labels:
+      - "Exclude from release nodes"
 
   categories:
     - title: Improvements
