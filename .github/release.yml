@@ -2,18 +2,22 @@
 
 changelog:
   exclude:
-    labels:
+    type:
       - ignore-for-release
 
   categories:
     - title: Improvements
-      labels:
+      type:
         - enhancement
 
     - title: Bug Fixes
-      labels:
+      type:
         - bug
 
+    - title: Documentaion
+      type:
+        - documentaion
+
     - title: Other Changes
-      labels:
+      type:
         - "*"
