@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: GdUnit Community Support
-    url: https://github.com/MikeSchulze/gdUnit4/discussions
+    url: https://github.com/godot-gdunit-labs/gdUnit4/discussions
     about: Please ask and answer questions here.
 
   - name: GdUnit4 Discord Server
@@ -9,5 +9,5 @@ contact_links:
     about: Feel free to join the GdUnit discord server for help and discussion
 
   - name: GdUnit4 documentation repository
-    url: https://github.com/MikeSchulze/gdUnit4/tree/documentation
+    url: https://github.com/godot-gdunit-labs/gdUnit4/tree/master/documentation
     about: Please report issues with documentation here.
