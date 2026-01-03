@@ -1,9 +1,9 @@
 name: Bug Report
 description: Report a GdUnit4 bug
 title: "GD-XXX: Brief description of the issue"
-labels: ["gdunit.api"]
+labels: ["API"]
 type: bug
-projects: ["GdUnit4/3"]
+projects: ["godot-gdunit-labs/3"]
 assignees:
   - MikeSchulze
 
